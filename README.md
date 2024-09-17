@@ -1,5 +1,2 @@
 # Level-Info
-<script type="text/javascript" src="function.js"></script>
-
-<input type="text">
-<button onclick="clk()">OK</button>
+<a href="main.html">跳转至跳转区</a>
